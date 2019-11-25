@@ -1,4 +1,4 @@
-# front2
+# Rock Paper Scissors Lizard Spoke front part
 
 ## Project setup
 ```
